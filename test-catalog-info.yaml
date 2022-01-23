@@ -3,7 +3,6 @@ kind: Component
 metadata:
   name: My-Test-Component-22
   description: testing techdocs implementations edited
-  annotations:
    
   tags:
     - techdocs
