@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: My-Test-Component-22-edited
-  description: testing techdocs implementations
+  name: My-Test-Component-22
+  description: testing techdocs implementations edited
   annotations:
     backstage.io/techdocs-ref: 
   tags:
