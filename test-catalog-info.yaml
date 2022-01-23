@@ -4,7 +4,7 @@ metadata:
   name: My-Test-Component-22
   description: testing techdocs implementations
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/Prasun117/Test-Component
+    backstage.io/techdocs-ref: 
   tags:
     - techdocs
     - data
@@ -15,7 +15,7 @@ metadata:
     - url: https://example.com/group
       title: Example Group
       icon: group
-    - url: https://example.com/cloud
+    - url: https://github.com/Prasun117/Test-Component
       title: Link with Cloud Icon
       icon: cloud
     - url: https://example.com/dashboard
