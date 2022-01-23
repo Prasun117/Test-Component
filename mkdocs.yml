@@ -1,7 +1,8 @@
-site_name: 'example-docs'
+site_name: 'tech-docs-edited'
 
 nav:
   - Home: index.md
-
+  - NewPage: newPage.md
+  
 plugins:
   - techdocs-core
