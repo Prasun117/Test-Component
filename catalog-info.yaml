@@ -4,7 +4,7 @@ metadata:
   name: My-Test-Component-22
   description: testing techdocs implementations
   annotations:
-    backstage.io/techdocs-ref: https://github.com/Prasun117/Test-Component
+    backstage.io/techdocs-ref: url:https://github.com/Prasun117/Test-Component
   tags:
     - techdocs
     - data
