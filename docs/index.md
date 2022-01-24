@@ -1,6 +1,6 @@
-# sample docs
+# Technical docs
 
-This is a basic example of documentation.
+This is a basic example of Technical Documentation.
 
 ```
 git status
